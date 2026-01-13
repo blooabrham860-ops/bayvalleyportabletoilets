@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1.  What is the average cost to rent a porta potty for a construction site?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The average price for porta potty rental on construction sites typically ranges between $100 and $175 per month for a standard unit, which includes one weekly service. However, portable toilet rental prices can fluctuate based on your specific location within the United States, fuel surcharges, and the number of units required.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2.  Do you offer portable restroom trailers for weddings and VIP events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide luxury portable restroom trailers for weddings and high-end corporate events nationwide. These trailers feature flushing toilets, climate control, and running water. The luxury porta potty rental prices for these units are higher than standard units due to the advanced amenities and power requirements.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3.  How often should portable toilets be serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For a standard construction site toilet rental with a crew of 10 people working a 40-hour week, one weekly service is the industry standard. However, for portable toilets rental for events with high alcohol consumption or heavy foot traffic, we recommend daily servicing or requesting extra portable toilet units to maintain hygiene.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4.  Can I rent a porta potty for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we offer short-term rentals. The cost to rent a porta potty for one day or a weekend is often similar to a weekly rate due to the fixed costs of delivery, setup, and cleaning. We can provide a specific quote for weekend portable toilet hire based on your city and event type.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5.  How many portable toilets do I need for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A general rule of thumb for event restroom rentals is one unit for every 50 guests for a 4-hour event. If the event lasts longer or involves food and alcohol, you should increase the number of portable bathroom units by 15-20%. We can help you calculate the exact number to ensure no lines form.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
